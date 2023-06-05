@@ -48,6 +48,35 @@ export default function Content() {
               November<span class="ticket-quantity">3</span>
             </li>
           </ul>
+          <div class="list-place">
+            <div class="list-item">
+              <img class="place-img" src="https://www.w3schools.com/w3images/newyork.jpg" alt="place"></img>
+              <div class="info-place">
+                <h3 class="place-name">New York</h3>
+                <p class="place-time">Fri 27 Nov 2016</p>
+                <p class="place-description">Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+                <button class="place-buy">Buy ticket</button>
+              </div>
+            </div>
+            <div class="list-item">
+              <img class="place-img" src="https://www.w3schools.com/w3images/newyork.jpg" alt="place"></img>
+              <div class="info-place">
+                <h3 class="place-name">New York</h3>
+                <p class="place-time">Fri 27 Nov 2016</p>
+                <p class="place-description">Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+                <button class="place-buy">Buy ticket</button>
+              </div>
+            </div>
+            <div class="list-item">
+              <img class="place-img" src="https://www.w3schools.com/w3images/newyork.jpg" alt="place"></img>
+              <div class="info-place">
+                <h3 class="place-name">New York</h3>
+                <p class="place-time">Fri 27 Nov 2016</p>
+                <p class="place-description">Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+                <button class="place-buy">Buy ticket</button>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 

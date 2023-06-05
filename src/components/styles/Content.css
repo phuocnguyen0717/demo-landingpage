@@ -103,6 +103,21 @@
   text-align: center;
   margin-top: -3px;
 }
+.list-place{
+  display: inline-block;
+  color: #000000;
+  background-color: #fff;
+
+}
+.list-item {
+  float: left;
+  width: 33.3333%;
+  padding:  0px 8px;
+
+}
+.place-img{
+  width: 100%;
+}
 /*
 --------------------------END TOUR DATES----------------------
 */
